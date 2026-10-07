@@ -6,7 +6,7 @@ p {
 }
 
 p {
-  border: 10px solid rgb(47, 163, 70);
+  border: 10px solid rgb(110, 64, 0);
   padding: 5px;
   outline-style: solid;
   outline-color: invert;
@@ -17,4 +17,19 @@ title{
   padding: 5px;
   outline-style: solid;
   outline-color: invert;
+}
+
+div {
+    border: 5px solid white;
+    padding: 1px;
+    outline-style solid;
+    outline-color: invert;
+    width: 22%;
+}
+
+p1 {
+  border: 1px solid pink;
+    padding: 1px;
+    outline-style: solid;
+    outline-color: invert;
 }
