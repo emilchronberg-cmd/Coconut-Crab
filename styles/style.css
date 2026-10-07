@@ -38,3 +38,16 @@ h1 {
   font-family: "Libre Baskerville", serif;
   font-size: 22px;
 }
+
+.snurra:hover {
+    animation: snurra 1s linear infinite;
+}
+
+@keyframes snurra {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
